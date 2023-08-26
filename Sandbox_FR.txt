@@ -1,0 +1,49 @@
+Sandbox_FR = {
+	Sandbox_Nipswitch = "Lightswitch Overhaul",
+	Sandbox_Nipswitch_Pagelength = "Livre de compétences : nombre total de pages",
+	Sandbox_Nipswitch_Pagelength_tooltip = "<RGB:232,209,0>1 page = instantané  \n12 pages = 1 minute  \n120 pages = 10 minutes (Vitesse par défaut du mode bac à sable) \nMultipliez les minutes par la vitesse de lecture du mode Sandbox de votre serveur, pour obtenir le nombre (#) de minutes pour 12 pages</RGB> ",
+	Sandbox_Nipswitch_Booklevel = "Livre de compétences : Niveau électrique de lecture",
+	Sandbox_Nipswitch_Booklevel_tooltip = "<RGB:232,209,0>Niveau d'électricité requis pour lire le livre",
+	Sandbox_Nipswitch_Bulbdisabled = "Interrupteurs : désactiver le retrait de l'ampoule",
+	Sandbox_Nipswitch_Bulbdisabled_tooltip = "<RGB:232,209,0>Si vous cochez la case, vous désactiverez le retrait des ampoules des interrupteurs d'éclairage (ignore la valeur du niveau d'ampoule).",
+	Sandbox_Nipswitch_Bulblevel = "Interrupteurs : Niveau pour changer l'ampoule",
+	Sandbox_Nipswitch_Bulblevel_tooltip = "<RGB:232,209,0>Niveau électrique requis pour retirer/remplacer l'ampoule des interrupteurs dans le monde",
+	Sandbox_Nipswitch_Movedisabled = "Interrupteurs : Désactiver la récupération/la mise en place",
+	Sandbox_Nipswitch_Movedisabled_tooltip = "<RGB:232,209,0>Si vous cochez la case, les joueurs ne pourront pas récupérer les interrupteurs d'éclairage (ignore la valeur du niveau de déplacement)",
+	Sandbox_Nipswitch_Movelevel = "Interrupteurs : Niveau pour prendre/placer",
+	Sandbox_Nipswitch_Movelevel_tooltip = "<RGB:232,209,0>Niveau requis pour placer/prendre des interrupteurs dans le monde",
+	Sandbox_Nipswitch_Batterydisabled = "Interrupteurs : Désactiver les connecteurs de batterie",
+	Sandbox_Nipswitch_Batterydisabled_tooltip = "<RGB:232,209,0>Si vous cochez la case, vous ne pourrez pas connecter les connecteurs de batterie aux interrupteurs d'éclairage (ignore la valeur du niveau de batterie)",
+	Sandbox_Nipswitch_Batterylevel = "Interrupteurs : Niveau pour ajouter un connecteur de batterie",
+	Sandbox_Nipswitch_Batterylevel_tooltip = "<RGB:232,209,0>Le niveau 5 est le niveau électrique minimum codé dans le jeu PZ pour ajouter une batterie.",
+	Sandbox_Nipswitch_Craftspeed = "Artisanat : Temps de fabrication",
+	Sandbox_Nipswitch_Craftspeed_tooltip = "120 = 2 min \n300 = 5 min \n600 = 10 min",
+	Sandbox_Nipswitch_Craftwire = "Artisanat : Fil nécessaire",
+	Sandbox_Nipswitch_Craftwire_tooltip = "<RGB:232,209,0>Combien de fil est nécessaire pour la fabrication",
+	Sandbox_Nipswitch_ElectronicsScrap = "Artisanat : Pièces électroniques nécessaires",
+	Sandbox_Nipswitch_ElectronicsScrap_tooltip = "<RGB:232,209,0>Combien de pièces électroniques sont nécessaires pour la fabrication",
+	Sandbox_Nipswitch_Craftducttape = "Artisanat : Ruban adhésif nécessaire",
+	Sandbox_Nipswitch_Craftducttape_tooltip = "<RGB:232,209,0>Combien d'unités de ruban adhésif sont nécessaires pour la fabrication",
+	Sandbox_Nipswitch_Craftscrews = "Artisanat : Vis nécessaires",
+	Sandbox_Nipswitch_Craftscrews_tooltip = "<RGB:232,209,0>Combien de vis sont nécessaires pour la fabrication",
+
+	Sandbox_Bookchanceplace = "Livre de compétences : Chance de découverte dans le monde",
+	Sandbox_Bookchanceplace_option6 = "Désactivé"
+	Sandbox_Bookchanceplace_option5 = "PARTOUT",
+	Sandbox_Bookchanceplace_option4 = "Commun"
+	Sandbox_Bookchanceplace_option3 = "Plutôt rare"
+	Sandbox_Bookchanceplace_option2 = "Rare"
+	Sandbox_Bookchanceplace_option1 = "Très rare"
+	Sandbox_Bookchanceplace_tooltip = "<RGB:232,209,0>Apparaît dans: \nRayon papeterie des librairies \nComptoir de bibliothèque \nEtagère de salon \nBureau résidentiel \nTable de nuit",
+
+	Sandbox_Bookchancezombie = "Livre de compétences : Chance de découverte sur les zombies",
+	Sandbox_Bookchancezombie_option6 = "Désactivé"
+	Sandbox_Bookchancezombie_option5 = "PARTOUT",
+	Sandbox_Bookchancezombie_option4 = "Commun"
+	Sandbox_Bookchancezombie_option3 = "Plutôt rare"
+	Sandbox_Bookchancezombie_option2 = "Rare"
+	Sandbox_Bookchancezombie_option1 = "Très rare"
+	Sandbox_Bookchancezombie_tooltip = "<RGB:232,209,0>Apparaît sur les corps des Zombies misent à terre."
+
+
+}
