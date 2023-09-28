@@ -1,3 +1,11 @@
 ItemName_FR = {
-	ItemName_Base.Lightswitches_fordummies = "Bricoler les interrupteurs : édition destinée aux débrouillards",
+	ItemName_Base.Lightswitches_fordummies = "Bricoler les interrupteurs : édition pour débrouillards",
+	ItemName_Base.lighting_indoor_01_0 = "Interrupteur d'éclairage côté droit",
+	ItemName_Base.lighting_indoor_01_1 = "Interrupteur d'éclairage côté gauche",
+	ItemName_Base.lighting_indoor_01_2 = "Interrupteur d'éclairage côté droit",
+	ItemName_Base.lighting_indoor_01_3 = "Interrupteur d'éclairage côté gauche",
+	ItemName_Base.lighting_indoor_01_4 = "Interrupteur d'éclairage côté gauche",
+	ItemName_Base.lighting_indoor_01_5 = "Interrupteur d'éclairage côté droit",
+	ItemName_Base.lighting_indoor_01_6 = "Interrupteur d'éclairage côté droit",
+	ItemName_Base.lighting_indoor_01_7 = "Interrupteur d'éclairage côté gauche",
 }
