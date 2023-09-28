@@ -1,0 +1,4 @@
+Recipes_FR = {
+	Recipe_Right_Light_Switch = "Placer l'interrupteur d'éclairage",
+	Recipe_Left_Light_Switch = "Placer l'interrupteur d'éclairage",
+}
